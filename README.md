@@ -8,6 +8,6 @@ Watch how performance improves as training progresses:
 
 | Episode | Model (notes) | Preview | Video |
 |---|---|---|---|
-| Early in Training | ` ε=1.00 · R=0.0 · S=29 · tag=test_epsdec50000_rs2000_sync1000` | <img src="media/early_video_thumbnail.png" width="120"/> |<a href="https://github.com/ayannaavalos/166/main/media/early_video.mp4" target="_blank">▶ Watch</a> | |
-| Later in Training| `ε=0.01 · R=2.0 · S=41 · tag=test_epsdec50000_rs2000_sync1000` | <img src="media/late_video_thumbnail.png" width="120"/> | <a href="https://github.com/ayannaavalos/166/main/media/early_video.mp4" target="_blank">▶ Watch</a> | |
+| Early in Training | ` ε=1.00 · R=0.0 · S=29 · tag=test_epsdec50000_rs2000_sync1000` | <img src="media/early_video_thumbnail.png" width="120"/> |<a href="https://github.com/ayannaavalos/166/blob/main/media/early_video.mp4" target="_blank">▶ Watch</a> | |
+| Later in Training| `ε=0.01 · R=2.0 · S=41 · tag=test_epsdec50000_rs2000_sync1000` | <img src="media/late_video_thumbnail.png" width="120"/> | <a href="https://github.com/ayannaavalos/166/blob/main/media/early_video.mp4" target="_blank">▶ Watch</a> | |
 
